@@ -6,6 +6,8 @@ Documentation in HTML format is in the folder "doc".
 Copyright, 2012
 Eran Mukamel, Hazen Babcock and Xiaowei Zhuang
 
+These files were forked from https://github.com/ZhuangLab/storm-analysis
+
 # Description #
 STORM image analysis using Maximum Likelihood Deconvolution
 (deconSTORM).
